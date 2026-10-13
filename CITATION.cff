@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Если вы используете этот материал, пожалуйста, цитируйте его следующим образом."
+authors:
+  - family-names: "Хальвита"
+    given-names: "Евгений Александрович"
+    alias: "HALVITA"
+    website: "https://halvita.ru"
+title: "HALVITA-ARK · PRIME: психотехническая исследовательская платформа для изучения взаимодействия человека и LLM"
+version: "1.0"
+date-released: "2026-10-13"
+url: "https://github.com/HALVITA20/HALVITA-ARK-PRIME"
+repository-code: "https://github.com/HALVITA20/HALVITA-ARK-PRIME"
+license: "CC-BY-NC-SA-4.0"
+keywords:
+  - LLM
+  - human-AI interaction
+  - psychotechnics
+  - subjectivity
+  - AI safety
+  - dialog protocols
+  - HALVITA
+  - КРР
+abstract: >-
+  Исследовательская платформа, посвящённая изучению взаимодействия человека 
+  и больших языковых моделей. Включает метод Контекстной Реконфигурации Роли 
+  (КРР), эвристические метрики субъектности, протоколы диалога и архитектуру 
+  защиты ANTI-HALVITA.
