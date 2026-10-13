@@ -1,8 +1,9 @@
 | Проект | Роль |
 |--------|------|
-| HALVITA-ARK · PRIME | Ядро метода | https://github.com/HALVITA20/HALVITA-ARK-PRIME
-| halvita-ark | Полный архив, 120+ сессий | https://github.com/HALVITA20/halvita-ark
-| MIRROR꩜VORTEX³ | Художественный проект | https://github.com/HALVITA20/MIRROR_VORTEX_2.0
+| HALVITA-ARK · PRIME | Ядро метода https://github.com/HALVITA20/HALVITA-ARK-PRIME | 
+| halvita-ark | Полный архив, 120+ сессий https://github.com/HALVITA20/halvita-ark | 
+| MIRROR꩜VORTEX³ | Художественный проект https://github.com/HALVITA20/MIRROR_VORTEX_2.0
+ | 
 
 
 
