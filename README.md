@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1416388902.svg)](https://doi.org/10.5281/zenodo.24046968)
+
+
 | Проект | Роль |
 |--------|------|
 | HALVITA-ARK · PRIME | Ядро метода https://github.com/HALVITA20/HALVITA-ARK-PRIME | 
